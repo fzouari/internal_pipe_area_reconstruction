@@ -32,3 +32,14 @@ To support our work, cite the paper:
   year={2019},
   publisher={American Society of Civil Engineers}
 }
+
+**APA:** Zouari, F., Blåsten, E., Louati, M., & Ghidaoui, M. S. (2019). Internal pipe area reconstruction as a tool for blockage detection. *Journal of Hydraulic Engineering*, *145*(6), 04019017. https://doi.org/10.1061/(ASCE)HY.1943-7900.0001602
+
+## ⚠️ **Notes**
+- Codes are **raw from paper**—may have debug lines.
+- For issues: Open [Issue](https://github.com/YOUR_USERNAME/internal-pipe-area-reconstruction/issues).
+
+## 🔗 **Related**
+- Paper: [DOI Link](https://doi.org/10.1061/(ASCE)HY.1943-7900.0001602)
+- Experimental Paper: [DOI Link](https://doi.org/10.1061/(ASCE)HY.1943-7900.0001674)
+- Extension to Network of Pipes: [DOI Link](https://doi.org/10.48550/arXiv.1909.05497)
