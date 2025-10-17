@@ -86,9 +86,9 @@ Contributions are warmly welcomed! Whether you're fixing bugs, improving perform
 
 ### 📋 Guidelines
 
-- Keep code clean and well-commented  
-- Follow MATLAB best practices and naming conventions  
-- Be respectful and constructive in discussions
+- Keep code clean.
+- Follow best practices.
+- Be respectful and constructive in discussions.
 
 ### 💡 Ideas Welcome
 
